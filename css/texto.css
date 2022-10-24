@@ -1,0 +1,32 @@
+#texto {
+    height: 250px;
+    padding-top: 40px;
+}
+
+.fraseDestaque {
+    color: #8D0606;
+
+    font-family: Pacifico;
+    font-size: 51px;
+    font-weight: 400;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.fraseSub{
+    color: #8C8888;
+
+
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 33px;
+    letter-spacing: 0em;
+    width: 1000px;
+    margin-left: 21%;
+    text-align: center;
+    
+
+}

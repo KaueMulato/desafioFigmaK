@@ -1,0 +1,42 @@
+#receitas {
+    background: #E5E5E5;
+}
+
+.sessaoReceitas {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.imagens {
+    padding-top: 15px;
+}
+
+.botaoReceita {
+    color: white;
+    background: #8D0606;
+    border-radius: 5px;
+    border: none;
+    width: 86px;
+    height: 22px;
+}
+
+.nomeReceita {
+    font-family: 'Roboto';
+    margin-bottom: 13px;
+    font-size: 1.1rem;
+}
+
+.subReceita {
+    font-family: 'Roboto';
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}
+
+#containerReceita {
+    background-color: white;
+    width: 286px;
+    height: 100px;
+}
